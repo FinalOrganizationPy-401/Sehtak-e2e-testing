@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "e2e testing for sehtak platform",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FinalOrganizationPy-401/Sehtak-e2e-testing.git"
+  },
+  "author": "lama radwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FinalOrganizationPy-401/Sehtak-e2e-testing/issues"
+  },
+  "homepage": "https://github.com/FinalOrganizationPy-401/Sehtak-e2e-testing#readme",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
